@@ -13,8 +13,8 @@ var Point = /** @class */ (function () {
         this.x = value;
     };
 
-   /* Point.prototype.setY = function (value) {
+    Point.prototype.setY = function (value) {
         this.y = value;
-    };*/
+    };
     return Point;
 }());
