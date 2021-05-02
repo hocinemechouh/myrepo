@@ -16,5 +16,6 @@ var Point = /** @class */ (function () {
     Point.prototype.setY = function (value) {
         this.y = value;
     };
+//comment
     return Point;
 }());
